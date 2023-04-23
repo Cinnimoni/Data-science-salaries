@@ -1,0 +1,10 @@
+pandas
+numpy
+country_converter
+translate
+matplotlib
+seaborn
+wordcloud
+pillow
+plotly
+RISE
